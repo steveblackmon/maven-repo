@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>streams-persist-neo4j</groupId>
+  <artifactId>streams-persist-neo4j</artifactId>
+  <versioning>
+    <versions>
+      <version>0.3-incubating-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150512171854</lastUpdated>
+  </versioning>
+</metadata>
